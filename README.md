@@ -36,12 +36,11 @@ Feel free to contact me :
 
 <p align="center">
  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aelmizeb&show_icons=true&theme=apprentice" />
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aelmizeb&theme=apprentice" />
 </p>
 
 <p align="center">
  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aelmizeb&theme=apprentice&utcOffset=8" />
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aelmizeb&theme=apprentice" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aelmizeb&theme=apprentice" />
 </p>
 
 
