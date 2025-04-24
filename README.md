@@ -1,5 +1,50 @@
 ## Hi there 👋
 
+I am Abdellatif EL MIZEB. Web developer from France and currently working as a Fullstack developer. Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Magento, Drupal, JavaScript, Nuxt, Vue, MySQL, Android, Flutter, Strapi. Additionally, I like to contribute to the open source community.
+
+## Tech Stack 💫
+![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
+![Magento](https://img.shields.io/badge/Magento-2.x-orange?logo=magento&style=for-the-badge)
+![Strapi](https://img.shields.io/badge/Strapi-4.x-blueviolet?logo=strapi&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
+![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
+![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
+![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
+![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
+![Android](https://img.shields.io/badge/Android-12-green?logo=android&style=for-the-badge)
+![Drupal](https://img.shields.io/badge/-DRUPAL-%232c3e50?style=for-the-badge&logo=DRUPAL)
+![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&style=for-the-badge)
+
+## Reach Me 💡
+Feel free to contact me :
+<p>
+  <a href="https://www.linkedin.com/in/abdellatifelmizeb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+  <a href="https://stackoverflow.com/users/9264512/abdellatif-el" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/-stackoverflow-%2323272A?style=for-the-badge&logo=Stackoverflow&logoColor=#EA7139"  height="30px"/></a>
+</p>
+
+## Github Profile Summary Card 💳
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aelmizeb&theme=apprentice"/>
+</p>
+
+## GitHub Stats 📟
+
+<p align="center">
+ <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aelmizeb&show_icons=true&theme=apprentice" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aelmizeb&theme=apprentice" />
+</p>
+
+<p align="center">
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aelmizeb&theme=apprentice&utcOffset=8" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aelmizeb&theme=apprentice" />
+</p>
+
+
 <!--
 **aelmizeb/aelmizeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
