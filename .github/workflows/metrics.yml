@@ -31,11 +31,10 @@ jobs:
           # Options
           user: aelmizeb
           template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_achievements: yes
           plugin_achievements_secrets: yes
-            base: ""
+          base: ""
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
             scripter, packager, explorer, infographile, manager
