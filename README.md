@@ -44,7 +44,10 @@ Feel free to contact me :
  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aelmizeb&theme=apprentice" />
 </p>
 
-![Metrics](./github-metrics.svg)
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" />
+</p>
+
 <!--
 **aelmizeb/aelmizeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
