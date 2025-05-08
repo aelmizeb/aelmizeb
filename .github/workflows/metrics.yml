@@ -36,8 +36,9 @@ jobs:
           plugin_achievements_secrets: yes
           base: ""
           plugin_achievements_only: >-
-            polyglot, contributor, forker, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager, follower
+            polyglot, contributor, forker, stargazer, deployer, member, maintainer, developer,
+            scripter, packager, explorer,  manager, follower
+            #sponsor, infographile,
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
           #plugin_followup: yes
@@ -70,8 +71,8 @@ jobs:
           #plugin_stargazers: yes
           #plugin_reactions: yes
           #plugin_reactions_details: count, percentage
-          plugin_starlists: yes
-          plugin_starlists_languages: yes
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 0
-          plugin_starlists_only: Awesome
+          #plugin_starlists: yes
+          #plugin_starlists_languages: yes
+          #plugin_starlists_limit_languages: 8
+          #plugin_starlists_limit_repositories: 0
+          #plugin_starlists_only: Awesome
