@@ -36,8 +36,8 @@ jobs:
           plugin_achievements_secrets: yes
           base: ""
           plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
+            polyglot, contributor, forker, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager, follower
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
           #plugin_followup: yes
@@ -51,8 +51,8 @@ jobs:
           #plugin_habits_from: 200
           #plugin_habits_languages_limit: 0
           #plugin_habits_languages_threshold: 0%
-          #plugin_isocalendar: yes
-          #plugin_isocalendar_duration: full-year
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           #plugin_languages: yes
           #plugin_languages_categories: markup, programming
           #plugin_languages_colors: github
