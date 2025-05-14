@@ -49,7 +49,9 @@ Feel free to contact me :
   <img src="./github-metrics.svg" alt="Metrics" />
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aelmizeb&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aelmizeb.aelmizeb" alt="visitor badge"/>
+</p>
 
 <!--
 **aelmizeb/aelmizeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
