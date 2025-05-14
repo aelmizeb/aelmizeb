@@ -6,6 +6,7 @@ I am Abdellatif EL MIZEB. Web developer from France and currently working as a F
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Magento](https://img.shields.io/badge/Magento-2.x-orange?logo=magento&style=for-the-badge)
 ![Nuxt 3](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-4.x-blueviolet?logo=strapi&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
