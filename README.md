@@ -25,7 +25,10 @@ I am Abdellatif EL MIZEB. Web developer from France and currently working as a F
 Feel free to contact me :
 <p>
   <a href="https://www.linkedin.com/in/abdellatifelmizeb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
-  <a href="https://stackoverflow.com/users/9264512/abdellatif-el" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/-stackoverflow-%2323272A?style=for-the-badge&logo=Stackoverflow&logoColor=#EA7139"  height="30px"/></a>
+  <!--<a href="https://stackoverflow.com/users/9264512/abdellatif-el" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/-stackoverflow-%2323272A?style=for-the-badge&logo=Stackoverflow&logoColor=#EA7139"  height="30px"/></a>-->
+  <a href="mailto:aelmizeb@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30px"/>
+  </a>
 </p>
 
 ## Github Profile Summary Card 💳
