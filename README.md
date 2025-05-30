@@ -15,6 +15,7 @@ I am Abdellatif EL MIZEB. Web developer from France and currently working as a F
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-4.x-blueviolet?logo=strapi&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%232c3e50?style=for-the-badge&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
@@ -25,7 +26,6 @@ I am Abdellatif EL MIZEB. Web developer from France and currently working as a F
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
 ![Android](https://img.shields.io/badge/Android-12-green?logo=android&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&style=for-the-badge)
-
 
 ## Reach Me 💡
 Feel free to contact me :
