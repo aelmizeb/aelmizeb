@@ -14,6 +14,8 @@ I am Abdellatif EL MIZEB. Web developer from France and currently working as a F
 ![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
+![MariaDB](https://img.shields.io/badge/-MariaDB-%232c3e50?style=for-the-badge&logo=mariadb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%232c3e50?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
 ![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
@@ -22,6 +24,7 @@ I am Abdellatif EL MIZEB. Web developer from France and currently working as a F
 ![Drupal](https://img.shields.io/badge/-DRUPAL-%232c3e50?style=for-the-badge&logo=DRUPAL)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&style=for-the-badge)
+
 
 ## Reach Me 💡
 Feel free to contact me :
