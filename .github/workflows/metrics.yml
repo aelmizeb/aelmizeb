@@ -16,7 +16,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -58,7 +58,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage
-          #plugin_languages_limit: 0
+          plugin_languages_limit: 50
           #plugin_languages_recent_categories: markup, programming
           #plugin_languages_recent_days: 14
           #plugin_languages_recent_load: 300
