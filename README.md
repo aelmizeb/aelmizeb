@@ -26,6 +26,7 @@ I am Abdellatif EL MIZEB. Web developer from France and currently working as a F
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
 ![Android](https://img.shields.io/badge/Android-12-green?logo=android&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&style=for-the-badge)
+![Rust](https://img.shields.io/badge/-Rust-%232c3e50?style=for-the-badge&logo=rust)
 
 ## Reach Me 💡
 Feel free to contact me :
