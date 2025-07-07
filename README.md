@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Abdellatif EL MIZEB. Web developer from France and currently working as a Fullstack developer. Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Magento, Drupal, JavaScript, Nuxt, Vue, MySQL, Android, Flutter, Strapi. Additionally, I like to contribute to the open source community.
+I am Abdellatif EL MIZEB. Senior Fullstack Engineer / Technical Lead from France and currently working as a Fullstack developer. Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Magento, Drupal, JavaScript, Nuxt, Vue, MySQL, Android, Flutter, Strapi. Additionally, I like to contribute to the open source community.
 
 ✋ Follow Me — My Bot Will Follow You Back! Let’s grow together and support each other’s projects! 🚀
 
