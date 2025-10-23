@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Abdellatif EL MIZEB. Senior Fullstack Engineer / Technical Lead from France and currently working as a Fullstack developer. Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Magento, Drupal, JavaScript, Nuxt, Vue, MySQL, Android, Flutter, Strapi. Additionally, I like to contribute to the open source community.
+I am Abdellatif EL MIZEB. Senior Fullstack Engineer / Technical Lead from France and currently working as a Fullstack developer. Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Magento, Drupal, Prestashop, JavaScript, Nuxt, Vue, Android, Flutter, Strapi. Additionally, I like to contribute to the open source community.
 
 ✋ Follow Me — My Bot Will Follow You Back! Let’s grow together and support each other’s projects! 🚀
 
@@ -24,6 +24,7 @@ I am Abdellatif EL MIZEB. Senior Fullstack Engineer / Technical Lead from France
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 ![Drupal](https://img.shields.io/badge/-DRUPAL-%232c3e50?style=for-the-badge&logo=DRUPAL)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?logo=prestashop&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-12-green?logo=android&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-%232c3e50?style=for-the-badge&logo=rust)
