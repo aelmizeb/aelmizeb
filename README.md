@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Abdellatif EL MIZEB, a Senior Fullstack Engineer & Technical Lead from France with over 15 years of experience building scalable and maintainable software solutions.
+I am Abdellatif EL MIZEB, a Senior Fullstack Engineer & Technical Lead with over 15 years of experience building scalable and maintainable software solutions.
 
 As a Technical Lead, I design architectures that balance performance, simplicity, and long-term stability, always guided by a simple philosophy: build what solves a real problem, not what just looks fancy on paper.
 
@@ -30,7 +30,6 @@ My expertise includes PHP, Magento, Drupal, Prestashop, JavaScript, Nuxt, Vue, A
 ![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 ![Drupal](https://img.shields.io/badge/-DRUPAL-%232c3e50?style=for-the-badge&logo=DRUPAL)
-![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?logo=prestashop&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-12-green?logo=android&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&style=for-the-badge)
