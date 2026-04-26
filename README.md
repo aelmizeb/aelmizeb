@@ -31,6 +31,7 @@ My expertise includes PHP, Magento, Drupal, Prestashop, JavaScript, Nuxt, Vue, N
 ![MariaDB](https://img.shields.io/badge/-MariaDB-%232c3e50?style=for-the-badge&logo=mariadb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%232c3e50?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-%232c3e50?style=for-the-badge&logo=redis)
+![Valkey](https://img.shields.io/badge/-Valkey-%232c3e50?style=for-the-badge&logo=valkey)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%232c3e50?style=for-the-badge&logo=kubernetes)
 ![Nginx](https://img.shields.io/badge/-Nginx-%232c3e50?style=for-the-badge&logo=nginx)
