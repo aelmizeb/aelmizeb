@@ -7,7 +7,7 @@ As a Technical Lead, I design architectures that balance performance, simplicity
 I’m passionate about mentoring developers, optimizing development workflows, and integrating DevOps best practices into everyday projects to improve delivery speed and reliability.
 
 Although my main focus is backend engineering, I have a strong enthusiasm for frontend technologies and seamless user experiences.
-My expertise includes PHP, Magento, Drupal, Prestashop, JavaScript, Nuxt, Vue, Android, Flutter, and Strapi. I also enjoy contributing to the open source community and sharing knowledge through side projects and automation tools.
+My expertise includes PHP, Magento, Drupal, Prestashop, JavaScript, Nuxt, Vue, Next.js, React, Android, Flutter, and Strapi. I also enjoy contributing to the open source community and sharing knowledge through side projects and automation tools.
 
 ✋ Follow Me, My Bot Will Follow You Back! Let’s grow together and support each other’s projects! 🚀
 
