@@ -17,7 +17,7 @@ jobs:
       contents: write
     steps:
       #- uses: yobson1/metrics@b99f7cd27980d0761a668ecc8f1c08f0fa57df15
-      - uses: aelmizeb/metrics-gh@main
+      - uses: aelmizeb/metrics-gh@master
         with:
           # Your GitHub token
           # The following scopes are required:
