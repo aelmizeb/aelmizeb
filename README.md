@@ -74,7 +74,7 @@ Feel free to contact me :
 </p>
 
 <p align="center">
- <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aelmizeb&theme=apprentice&utcOffset=8" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aelmizeb&theme=apprentice&utcOffset=0" />
  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aelmizeb&theme=apprentice" />
 </p>
 
