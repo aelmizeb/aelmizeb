@@ -51,6 +51,13 @@ My expertise includes PHP, Magento, Drupal, Prestashop, JavaScript, Nuxt, Vue, N
 ![Rust](https://img.shields.io/badge/-Rust-%232c3e50?style=for-the-badge&logo=rust)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
 
+## AI-Assisted Development 🤖
+![Claude](https://img.shields.io/badge/-Claude-%232c3e50?style=for-the-badge&logo=claude)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-%232c3e50?style=for-the-badge&logo=anthropic)
+![Claude Desktop](https://img.shields.io/badge/-Claude%20Desktop-%232c3e50?style=for-the-badge&logo=claude)
+![Codex](https://img.shields.io/badge/-Codex-%232c3e50?style=for-the-badge)
+![Codex Desktop](https://img.shields.io/badge/-Codex%20Desktop-%232c3e50?style=for-the-badge)
+
 ## Reach Me 💡
 Feel free to contact me :
 <p>
